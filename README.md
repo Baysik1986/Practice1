@@ -91,7 +91,8 @@
 -```tracked```
 	* ```staged```
 	* ```modified```
-Цикл файлов 
+
+
 Цикл файлов 
 "modified" --> "git add" --> "git commit -m" --> "modified"
 
